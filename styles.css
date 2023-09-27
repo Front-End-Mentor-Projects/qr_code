@@ -91,7 +91,14 @@ body {
     padding-bottom: 25px;
 }
 
-
-/* Mobile Styles */
+.card {
+    max-width: 370px;
+}
 
 /* Desktop Styles */
+
+@media  screen and (min-width: 376px) {
+    body {
+        margin-top: 6%;
+    }
+}
