@@ -32,7 +32,46 @@ html {
 
 /* Variables */
 
+:root {
+    --whiteMain: hsl(0, 0%, 100%);
+    --lightGray: hsl(212, 45%, 89%);
+    --grayBlue: hsl(220, 15%, 55%);
+    --darkBlue: hsl(218, 44%, 22%);
+}
+
 /* Base Styles (Doesn't change with media break points) */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30%;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    padding: 15px;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+
+.card-img img {
+    border-radius: 15px;
+}
+
+.card-text {
+    text-align: center;
+}
+
 
 /* Mobile Styles */
 
