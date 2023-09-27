@@ -24,8 +24,8 @@ The project it self wasn't anything too difficult, but still required me to look
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-card-component-FMD_M3a2Qd)
+- Live Site URL: [QR Code Component](https://splendorous-crisp-b6fb36.netlify.app/)
 
 ## My process
 
